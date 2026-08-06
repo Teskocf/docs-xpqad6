@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ztpdxw.shadowdiary.com/sitemap.xml
